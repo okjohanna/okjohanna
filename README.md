@@ -6,8 +6,6 @@ ___
 A second-year Software Development student passionate about art, video games and Internet culture
 <br/>
 
-[candraws.site](https://candraws.site) | [can.draws@instagram](https://www.instagram.com/can.draws/)
-
 ___
 <img src="https://i.postimg.cc/yxHtMMs4/soraneko.gif">
 <a href="https://petrapixel.neocities.org/indiewebdb/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/assets/img/links/indiewebdb.png" alt="indie web database"></a>
