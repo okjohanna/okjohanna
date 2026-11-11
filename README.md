@@ -29,8 +29,6 @@ ___
 ![Brave](https://img.shields.io/badge/Brave-%23FB542B.svg?style=for-the-badge&logo=Brave&logoColor=white)
 ![Mullvad](https://img.shields.io/badge/mullvad-%23294D73.svg?style=for-the-badge&logo=mullvad&logoColor=white)
 ___
-<sub>Please feed my starving pet</sub>\
-↓
 
 <a href="https://tamanotchi.world/38485c"><img src="https://tamanotchi.world/i2/38485" alt="It's tamaNOTchi! Click to feed!"></a>
 </div>
